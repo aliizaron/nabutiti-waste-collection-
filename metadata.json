@@ -1,0 +1,8 @@
+{
+  "name": "Nabutiti Village Waste Collection & Monitoring System",
+  "description": "Web-Based Waste Collection Management and Monitoring System for Nabutiti Village, Kansanga, Kampala with citizen requests, GPS mapping, collector dispatch, and leadership analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
